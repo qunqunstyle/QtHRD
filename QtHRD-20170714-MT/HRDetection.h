@@ -58,7 +58,6 @@
 
 using namespace std;
 using namespace cv;
-using namespace cv::face;
 
 class HeartRateDetect :public QObject
 {
